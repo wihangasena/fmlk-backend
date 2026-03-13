@@ -15,7 +15,7 @@ A complete backend API server for an e-commerce platform built with Node.js, Exp
 
 ## Tech Stack
 
-- **Node.js** - JavaScript runtime
+- **Node.js** - JavaScript runt
 - **Express.js** - Web framework
 - **MongoDB** - NoSQL database
 - **Mongoose** - MongoDB object modeling
