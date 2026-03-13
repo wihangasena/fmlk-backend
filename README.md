@@ -1,6 +1,6 @@
 # FMLK E-commerce Backend Server
 
-A complete backend API server for an e-commerce platform built with Node.js, Express, MongoDB, and JWT authentication.
+A complete backend API server for an e-commerce platform built with Node.js, Express, MongoDB, and JWT authentication
 
 ## Features
 
